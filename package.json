@@ -1,0 +1,15 @@
+{
+  "name": "ai-recursive-decomposer",
+  "version": "1.0.0",
+  "description": "Divide-and-conquer recursive task decomposition for complex AI problem solving",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "recursive",
+    "decomposition",
+    "divide-conquer",
+    "agent",
+    "llm"
+  ],
+  "license": "MIT"
+}
